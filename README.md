@@ -1,0 +1,2 @@
+# veriyapilarialgoritma
+www.patika.dev
